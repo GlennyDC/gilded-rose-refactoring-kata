@@ -2,7 +2,7 @@
 
 This is the Gilded Rose Refactoring Kata in TypeScript.
 
-This Kata was originally created by [Terry Hughes](http://twitter.com/TerryHughes) and can be found on [GitHub](https://github.com/NotMyself/GildedRose). [Emily Bache](https://github.com/emilybache) translated the original C# code into a few other languages and slightly changed the starting position.
+This Kata was originally created by [Terry Hughes](http://twitter.com/TerryHughes) and can be found on [GitHub](https://github.com/NotMyself/GildedRose). [Emily Bache](https://github.com/emilybache) translated the original C# code into a few other languages and slightly changed the starting position. The starting point of this Kata can also be found on [GitHub](https://github.com/emilybache/GildedRose-Refactoring-Kata).
 
 ## Gilded Rose Requirements Specification
 
